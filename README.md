@@ -62,8 +62,8 @@ but you are not required to have done much work. To complete this milestone you 
    frameworks/libraries you have chosen to work with (bare-bones HTML and CSS with some bootstrap spread around to help you out is awesome too 🙂) but the goal is that anyone that clones your repository
    should follow your instructions and be able to start your application.
 
-   > [!NOTE]
-   > Although your app doesn't need to fully work at this point(a blank screen or default web page is fine when someone `git clone`), you should have some working code in a `develop` branch or `feature` branch, or something similar. Remember to use `git` workflow (branch out, commit, merge, ...) to develop your app incrementally.
+> [!NOTE]
+> Although your app doesn't need to fully work at this point(a blank screen or default web page is fine when someone `git clone`), you should have some working code in a `develop` branch or `feature` branch, or something similar. Remember to use `git` workflow (branch out, commit, merge, ...) to develop your app incrementally.
 
 3. **Include** a simple wireframe of what your application might look like (1 - 3 pages).
 
