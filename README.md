@@ -20,8 +20,8 @@ In order to guide you in developing your application the project can be divided 
 The first milestone is to decide what you want to build and to "break ground" on your project. To complete
 this milestone you should complete the following:
 
-1. **_Decide_** what project to build. This is likely the most difficult step, so don't feel to much pressure to
-   stick to you first idea.
+1. **_Decide_** what project to build. This is likely the most difficult step, so don't feel too much pressure to
+   stick to your first idea.
 
 > [!TIP]
 > Talk to TAs or your instructor if your are unsure.
@@ -60,21 +60,21 @@ but you are not required to have done much work. To complete this milestone you 
    application with.
 2. **Include a section** in your documentation on how to run your application. This will depend on what
    frameworks/libraries you have chosen to work with (bare-bones HTML and CSS with some bootstrap spread around to help you out is awesome too 🙂) but the goal is that anyone that clones your repository
-   should follow your instructions and be able to start your application.
+   should follow your instructions and is able to start your application.
 
 > [!NOTE]
-> Although your app doesn't need to fully work at this point(a blank screen or default web page is fine when someone `git clone`), you should have some working code in a `develop` branch or `feature` branch, or something similar. Remember to use `git` workflow (branch out, commit, merge, ...) to develop your app incrementally.
+> Although your app doesn't need to fully work at this point (a blank screen or default web page is fine when someone `git clone`), you should have some working code in a `develop` branch or `feature` branch, or something similar. Remember to use `git` workflow (branch out, commit, merge, ...) to develop your app incrementally.
 
 3. **Include** a simple wireframe of what your application might look like (1 - 3 pages).
 
 - You can use a simple tool like [excalidraw](https://excalidraw.com/) to build it.
 
 4. **Share** your progress with the group in Slack. Write a message declaring that you have finished the
-   second Milestone and include a link to the project again for easy access.
+   second milestone and include a link to the project again for easy access.
 
 ## 📊 Milestone 3 - Deadline March 21, 2025
 
-This Milestone is a little more open ended and will depend on how much work you have done, and how
+This milestone is a little more open ended and will depend on how much work you have done, and how
 much you have planned. The goal here is to demonstrate that development is underway and that you have
 a roadmap on what you would like to accomplish with your project. To complete this milestone you should
 do the following:
@@ -97,7 +97,7 @@ you stop adding new things and start polishing what you have. To complete this m
 
 1. **Update** your `README` file as needed. Ensure the roadmap and other documentation is up to date.
 
-2. You have designed your database and you can provide some images on the schema of your data
+2. You have designed your database and you can provide some images on the schema of your data.
 
 ![database designed](./resources/designed.jpg)
 
@@ -109,7 +109,7 @@ you stop adding new things and start polishing what you have. To complete this m
 
 ## 📃 Milestone 5 - Deadline April 11, 2025
 
-This milestones ensures you have a database created and `backend` environment prepared (API).
+This milestone ensures you have a database created and `backend` environment prepared (API).
 
 1. **Update** your `README` file as needed. Ensure the roadmap and other documentation is up to date.
 
