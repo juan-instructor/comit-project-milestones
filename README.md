@@ -15,7 +15,7 @@ features your finished product will include, there are some baseline requirement
 
 In order to guide you in developing your application the project can be divided into a set of milestones.
 
-## 🚀 Milestone 1 - Deadline March 05, 2025
+## 🚀 Milestone 1 - Deadline October 21, 2025
 
 The first milestone is to decide what you want to build and to "break ground" on your project. To complete
 this milestone you should complete the following:
@@ -49,7 +49,7 @@ this milestone you should complete the following:
 7. **_Share_** your project with the class! We will create a channel dedicated to project discussions. Post
    there with a link to your project and write in your message that you have finished the first milestone.
 
-## 📄 Milestone 2 - Deadline March 14, 2022
+## 📄 Milestone 2 - Deadline October 31, 2022
 
 The second milestone is to perform some initial design work and to initialize your development
 environment. At this point you should have started making progress on your application (HTML, CSS, Bootstrap) and made some early design decisions,
@@ -72,7 +72,7 @@ but you are not required to have done much work. To complete this milestone you 
 4. **Share** your progress with the group in Slack. Write a message declaring that you have finished the
    second milestone and include a link to the project again for easy access.
 
-## 📊 Milestone 3 - Deadline March 21, 2025
+## 📊 Milestone 3 - Deadline November 06, 2025
 
 This milestone is a little more open ended and will depend on how much work you have done, and how
 much you have planned. The goal here is to demonstrate that development is underway and that you have
@@ -89,7 +89,7 @@ do the following:
 4. **Update** the class on your progress! Update the project channel with your latest feature update! As
    usual please include a link to your project page for easy access from your post.
 
-## 📁 Milestone 4 - Deadline April 08, 2025
+## 📁 Milestone 4 - Deadline November 28, 2025
 
 At this point you should have finished all of the features you think you will be able to finish before the end of the course. This does not mean you need
 to be done all of the features in your roadmap. This is simply a point in your project development where
@@ -107,7 +107,7 @@ you stop adding new things and start polishing what you have. To complete this m
    demonstrate how you can use my application to register an account, login, and add items to your
    cart."
 
-## 📃 Milestone 5 - Deadline April 11, 2025
+## 📃 Milestone 5 - Deadline December 05, 2025
 
 This milestone ensures you have a database created and `backend` environment prepared (API).
 
@@ -115,9 +115,9 @@ This milestone ensures you have a database created and `backend` environment pre
 
 2. **Share** with the group your progress and provide a short summary of the challenges you have had setting up your `backend` (database, endpoints, etc.) and what you did to overcome them.
 
-## 😎 Milestone 6 - Deadline April 15, 2025
+## 😎 Milestone 6 - Deadline December 15, 2025
 
-Show at least 5 screens implemented (it does not include login page)
+Show at least 5 screens implemented.
 
 ## 🗣️ Project Presentations
 
