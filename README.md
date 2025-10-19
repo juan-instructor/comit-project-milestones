@@ -49,7 +49,7 @@ this milestone you should complete the following:
 7. **_Share_** your project with the class! We will create a channel dedicated to project discussions. Post
    there with a link to your project and write in your message that you have finished the first milestone.
 
-## 📄 Milestone 2 - Deadline October 31, 2022
+## 📄 Milestone 2 - Deadline October 31, 2025
 
 The second milestone is to perform some initial design work and to initialize your development
 environment. At this point you should have started making progress on your application (HTML, CSS, Bootstrap) and made some early design decisions,
